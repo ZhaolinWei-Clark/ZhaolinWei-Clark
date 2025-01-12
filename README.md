@@ -9,7 +9,7 @@ I'm Zhaolin (Clark) Wei, a Mechatronics Design graduate student at the Universit
   - Bachelor of Engineering - University of Macau
   
 - 📈 **Experience**:
-  - Former General Secretary of IMechE-UMSU (Institution of Mechanical Engineers - University of Macau Student Union)
+  - Former General Secretary of IMechE-UMSU [Institution of Mechanical Engineers - University of Macau Student Union] (https://www.instagram.com/imeche_umsu?igsh=Z3VhYTF4aW4xYmM2)
   
 - 💼 **Interests**:
   - Robotics
