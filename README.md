@@ -13,7 +13,7 @@ I'm Zhaolin (Clark) Wei, a Mechatronics Design graduate student at the Universit
   
 - 💼 **Interests**:
   - Robotics
-  - Automation
+  - Manufacture
   - Embedded Systems
   - AI in Engineering
 
